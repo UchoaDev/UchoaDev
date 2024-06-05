@@ -13,8 +13,7 @@ e contribuir para a constante evolução da sociedade.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-h-cervinski-uchoa-4408761a4/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:pedro.cervinski@outlook.com)
 
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=UchoaDev&show_icons=true&theme=gotham)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UchoaDev&layout=compact&theme=gotham)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=UchoaDev&show_icons=true&theme=gotham"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UchoaDev&layout=compact&theme=gotham"/>
+</div>
