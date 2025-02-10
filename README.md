@@ -1,6 +1,6 @@
 ## Olá 👋 <br> sou o Pedro, sejam bem-vindos ao meu perfil !
 
-1° Semestre em Análise e Desenvolvimento de Sistemas
+3° Semestre em Análise e Desenvolvimento de Sistemas
 
 Iniciei na área de desenvolvimento em 2023, logo despertou-se uma paixão junto da imensa vontade de aprender
 e contribuir para a constante evolução da sociedade.
